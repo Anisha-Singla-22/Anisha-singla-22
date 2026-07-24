@@ -1,8 +1,8 @@
-<!-- ████████████████████████████████  HEADER  ████████████████████████████████ -->
+**<!-- ████████████████████████████████  HEADER  ████████████████████████████████ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,14,21&height=260&section=header&text=Anisha%20Singla&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=AI%20Founder%20%E2%80%A2%20Builder%20%E2%80%A2%20Innovator&descAlignY=62&descSize=20&animation=fadeIn&stroke=C9A84C&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,14,21&height=260&section=header&text=Anisha%20Singla&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=AI%20Product%20Manager%20%E2%80%A2%20Founder%2C%20Teeny%20Tech%20Trek&descAlignY=62&descSize=18&animation=fadeIn&stroke=C9A84C&strokeWidth=1" width="100%"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C9A84C&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=Founder+%26+CEO+%F0%9F%9A%80;+Applied+AI+Solutions;AI+Consultancy+%C2%B7+Automation+%C2%B7+LLM+Workflows+%F0%9F%A4%96;+Project+Management+%C2%B7+%F0%9F%8E%93;Transforming+Businesses+Through+AI+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=C9A84C&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=AI+Product+Manager+%C2%B7+Business+Analyst+%F0%9F%93%8A;Founder+%E2%80%94+Teeny+Tech+Trek+%F0%9F%9A%80;RAG+%C2%B7+AI+Agents+%C2%B7+Agentic+Workflows+%F0%9F%A4%96;Turning+AI+pilots+into+production+systems+%E2%9C%A8;Toronto-bound+%C2%B7+Sep+2026+%F0%9F%87%A8%F0%9F%87%A6)](https://git.io/typing-svg)
 
 </div>
 
@@ -18,71 +18,66 @@
 
 <!-- ████████████████████████████████  ABOUT  ████████████████████████████████ -->
 
-<img align="right" width="320" src="./vedio.gif" alt="girl coding gif"/>
-
 ```python
 class AnishaSingla:
     def __init__(self):
         self.name      = "Anisha Singla"
-        self.role      = "Founder & CEO — Teeny Tech Trek"
-        self.location  = "Mohali, Punjab 🇮🇳"
+        self.role      = "AI Product Manager & Business Analyst · Founder, Teeny Tech Trek"
+        self.location  = "Mohali, Punjab, India 🇮🇳 → Toronto, Ontario, Canada 🇨🇦 (relocating Sep 2026)"
         self.education = [
             "B.Tech — Computer Engineering · CGC Jhanjeri (2017–21)",
-            "PG — Applied AI Solutions · George Brown College (2022–23)",
-            "PG — Project Management · George Brown College (2023–24)",
+            "PG Cert — Applied AI Solutions Development · George Brown Polytechnic (2022–23)",
+            "PG Cert — Project Management · George Brown Polytechnic (2023–24)",
         ]
 
     @property
     def focus(self):
         return [
-            "🤖  AI Consultancy · LLM Integration · Automation",
-            "📈  Strategic Business Development · GTM Strategy",
+            "🤖  AI Strategy · AI Implementation · AI Enablement",
+            "🔎  RAG · Agentic Workflows · LLMs · AI Governance",
+            "📊  Product Management · Business Analysis",
             "🗂️  Project Management · Agile / Scrum",
-            "🎨  Design Thinking · Human-Centered Facilitation",
-            "🌐  Community Building · Startup Ecosystem",
+            "🌐  Startup Ecosystem · Community Building",
         ]
 
-    @property
-    def track_record(self):
-        return {
-            "company_founded" : "Teeny Tech Trek (Sep 2024)",
-            "experience"      : "5+ years across AI, PM & frontend",
-            "projects_built"  : "10 — from LLM chatbots to AI recruitment tools",
-            "degrees"         : "2 postgraduate · George Brown College, Toronto",
-        }
-
     def tagline(self):
-        return "Transforming businesses through AI — one solution at a time."
+        return "Turning AI pilots into production systems."
 ```
+
+I build AI systems that survive contact with production. As Founder of **Teeny Tech Trek**, an AI solutions studio, I've spent two years turning AI pilots into working systems for real businesses — production-grade RAG chatbots, AI agents, and workflow automations for 10 clients across Real Estate, Immigration, and Education, with 100% on-time delivery.
+
+I'm returning to Toronto in September 2026 after completing two postgraduate programs at George Brown Polytechnic (Applied AI, Project Management), earning Dean's Honour List standing across all four terms. I hold a valid PGWP and am authorized to work full-time for any employer in Canada. I'm looking for **AI Product Manager, Business Analyst, and AI implementation roles** — taking AI from demo to deployed.
 
 <br/>
 
-![Company](https://img.shields.io/badge/Founded-Teeny_Tech_Trek-C9A84C?style=flat-square&logo=rocket&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-5%2B_Years-22C55E?style=flat-square)
-![Degrees](https://img.shields.io/badge/Postgrad_Degrees-2_from_GBC-3B82F6?style=flat-square)
-![Projects](https://img.shields.io/badge/Projects-10_Built-8B5CF6?style=flat-square)
+![Founder](https://img.shields.io/badge/Founder-Teeny_Tech_Trek-C9A84C?style=flat-square&logo=rocket&logoColor=white)
+![Clients](https://img.shields.io/badge/Clients-10_·_100%25_On--Time-22C55E?style=flat-square)
+![Credentials](https://img.shields.io/badge/PG_Certs-2_·_George_Brown_Polytechnic-3B82F6?style=flat-square)
+![Work Auth](https://img.shields.io/badge/Canada-PGWP_·_Full--Time_Authorized-8B5CF6?style=flat-square)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-singlaanisha-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singlaanisha)
-[![Website](https://img.shields.io/badge/Website-teenytechtrek.com-C9A84C?style=flat-square&logo=safari&logoColor=white)](https://www.teenytechtrek.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anishasingla.com-C9A84C?style=flat-square&logo=safari&logoColor=white)](https://www.anishasingla.com/)
+[![Website](https://img.shields.io/badge/Studio-teenytechtrek.com-10B981?style=flat-square&logo=safari&logoColor=white)](https://www.teenytechtrek.com/)
 
-<br clear="right"/>
+📩 **Hiring / recruiters:** `anishasingla23@gmail.com` · **Business:** `anishasingla@teenytechtrek.com`
 
 ---
 
 <!-- ████████████████████████████████  CURRENTLY BUILDING  ████████████████████████████████ -->
 
-## 🔥 Currently Building
+## 🔥 The Tech Trekkers Suite
+
+Three production AI agent products, one shared agentic engine — covering conversational runtime, RAG grounding, lead scoring, multi-tenancy with RBAC, and BYOK billing.
 
 <div align="center">
 
-| What | Status |
-|:---|:---:|
-| 🤖 Teeny Tech Trek Platform — AI consultancy hub with automation tools + strategy modules | ![Active](https://img.shields.io/badge/-ACTIVE-22C55E?style=flat-square) |
-| 🧠 SmartHire AI — Resume parsing, candidate ranking + interview scheduling | ![Beta](https://img.shields.io/badge/-BETA-F59E0B?style=flat-square) |
-| 🎨 AI Content Studio — Multi-modal social content generation from a single brand brief | ![In Progress](https://img.shields.io/badge/-IN_PROGRESS-3B82F6?style=flat-square) |
-| 🤝 ConnectSphere CRM — Community engagement tracker for Connect Circles | ![Live](https://img.shields.io/badge/-LIVE-22C55E?style=flat-square) |
+| Product | What it does | Status |
+|:---|:---|:---:|
+| 🏠 **Nex-Estate** | Always-on AI real estate assistant with built-in CRM — chat, voice & video avatars that qualify leads 24/7, with HubSpot/Salesforce/Zoho sync | ![Live](https://img.shields.io/badge/-LIVE-22C55E?style=flat-square) |
+| 🤝 **NetTwin** | AI digital twin that turns a professional's resume + website into a conversational persona that captures and qualifies leads round the clock | ![Live](https://img.shields.io/badge/-LIVE-22C55E?style=flat-square) |
+| ✍️ **Neo-Script** | MCP-native multi-agent content pipeline with Researcher/Writer agents and source-cited output — runs natively in Claude Desktop, Cursor, and Windsurf | ![Live](https://img.shields.io/badge/-LIVE-22C55E?style=flat-square) |
 
 </div>
 
@@ -96,10 +91,10 @@ class AnishaSingla:
 
 | Service | Focus |
 |:---|:---|
-| 🤖 **AI Consultancy** | Custom LLM systems · Intelligent automation · AI strategy · Process optimization |
-| 📈 **Business Development** | GTM strategy · Revenue architecture · Partnerships · Market research |
+| 🤖 **AI Consultancy** | Custom RAG/LLM systems · Agentic workflows · AI strategy · Governance & guardrails |
+| 📊 **Product & Business Analysis** | Requirements gathering · Solution architecture · GTM strategy |
 | 🗂️ **Project Management** | Agile / Scrum · Risk management · Team leadership · On-time delivery |
-| 🎨 **Design Thinking** | User research · Ideation workshops · Prototyping · Human-centered facilitation |
+| 🎨 **Design Thinking** | User research · Ideation workshops · Human-centered facilitation |
 
 </div>
 
@@ -113,12 +108,12 @@ class AnishaSingla:
 
 [![Skills](https://skillicons.dev/icons?i=python,react,nextjs,tailwind,figma,nodejs,firebase,fastapi)](.)
 
-![AI](https://img.shields.io/badge/LLM_Integration-GPT--4_+_APIs-C9A84C?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Machine_Learning-8B5CF6?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-Workflows-22C55E?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-Scrum-3B82F6?style=for-the-badge)
-![Design](https://img.shields.io/badge/Design_Thinking-Certified-F97316?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-UI_/_UX-E11D48?style=for-the-badge&logo=figma&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-C9A84C?style=for-the-badge)
+![Agents](https://img.shields.io/badge/AI_Agents-Agentic_Workflows-8B5CF6?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-3B82F6?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-n8n_Workflows-22C55E?style=for-the-badge)
+![Governance](https://img.shields.io/badge/AI_Governance-Safety_&_Guardrails-F97316?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile-Scrum-E11D48?style=for-the-badge)
 
 </div>
 
@@ -126,153 +121,17 @@ class AnishaSingla:
 
 <!-- ████████████████████████████████  SKILLS  ████████████████████████████████ -->
 
-## 📊 Skills
+## 📊 Top Skills
 
 <div align="center">
 
 | Skill | Proficiency |
 |:---|:---|
-| Artificial Intelligence | `████████████████████░` 95% |
-| Strategic Business Development | `██████████████████░░░` 90% |
-| Project Management | `█████████████████░░░░` 88% |
-| Design Thinking | `████████████████░░░░░` 85% |
-| Community Building | `████████████████░░░░░` 82% |
-| Frontend Development | `███████████████░░░░░░` 78% |
-
-</div>
-
----
-
-<!-- ████████████████████████████████  PROJECTS  ████████████████████████████████ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔍 Jigsaw Toxic Comment Classifier
-**Multi-Label NLP · Bi-LSTM · Safety Audits**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Anisha-Singla-22/Jigsaw)
-
-6-label toxicity classifier with 3 safety audits — identity bias probe, adversarial robustness, and calibration. ROC-AUC > 0.95 on the `toxic` label.
-
-`Python` `TensorFlow` `Bi-LSTM` `TF-IDF` `scikit-learn` · **Kaggle Jigsaw 2018**
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Flipkart Sentiment Analysis
-**GloVe · LSTM · Logistic Regression**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Anisha-Singla-22/SentimentalAnalysis)
-
-5-star rating classification on 169,001 Flipkart reviews. Three models compared — LR baseline at 81.4%, LSTM reaching ~90%+ — all grounded in GloVe 50d embeddings.
-
-`Python` `Keras` `GloVe` `NLTK` `pandas` · **169k Reviews**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎬 Product → UGC Video Pipeline
-**n8n · Veo 3.1 · Gemini · Cloudflare R2**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Anisha-Singla-22/GrammyVideo)
-
-Fully automated UGC ad generation — product image in, 3 video ads out. AI persona generation → script writing → frame synthesis → Veo 3.1 video → R2 storage. 6 languages supported.
-
-`n8n` `Veo 3.1` `Gemini 2.5 Flash` `Cloudflare R2` · **25 Nodes · Zero Manual Work**
-
-</td>
-<td width="50%" valign="top">
-
-### 🖼️ Transfer Learning with Xception
-**TensorFlow · Keras · ImageNet**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Anisha-Singla-22/TransferLearning)
-
-Two-phase transfer learning on tf_flowers and cars196 — Phase 1 freezes base (86% val acc), Phase 2 fine-tunes full Xception (91%+). Demonstrates carbon-efficient deep learning.
-
-`TensorFlow` `Keras` `Xception` `tf_datasets` · **91%+ Val Accuracy**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ✍️ Neo Scripting — AEO/GEO Blog Engine
-**10-Agent Pipeline · Gemini · Qdrant · MCP**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Anisha-Singla-22/Neo-Scripting)
-
-Raw prompt → publish-ready AEO blog + LinkedIn / Twitter / Reddit posts in one API call. 10-agent AGNO pipeline with Qdrant RAG, DuckDuckGo live research, React SPA, and MCP server.
-
-`FastAPI` `AGNO` `Gemini Flash` `Qdrant` `React` `MCP` `Vercel`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏠 NexEstate — Real Estate AI Avatar Platform
-**MERN · JWT · S3 · Razorpay · SaaS**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Anisha-Singla-22/Nex-Estate)
-[![Live](https://img.shields.io/badge/Live-estate.techtrekkers.ai-10B981?style=flat-square)](https://estate.techtrekkers.ai)
-
-AI chatbot avatars deployed via QR codes — engage leads, qualify prospects, and schedule visits 24/7. Full MERN SaaS with JWT auth, S3 image uploads, Razorpay billing, and Agenda jobs.
-
-`React` `TypeScript` `Node` `MongoDB` `AWS S3` `Razorpay`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 TTT Website Chatbot
-**Hybrid RAG · FAISS · Neo4j · Claude · Redis**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Anisha-Singla-22/ttt_website_chatbot)
-
-4-layer hybrid AI chatbot — Cache → Guided Flow → Structured Handler → RAG + KG + Claude. Easy 80% of queries never hit the LLM. FAISS + Neo4j hybrid retrieval for factual precision.
-
-`FastAPI` `Claude` `FAISS` `Neo4j` `Redis` `MongoDB` `spaCy`
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 ML & NLP Suite
-**7 Mini-Projects · Classification · NLP · CV**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Anisha-Singla-22/ML-NLP-suite)
-
-7 self-contained notebooks covering TF-IDF classification (85% acc), LDA topic modelling, CRF medical NER, hybrid movie recommenders, extractive summarisation, image segmentation, and real-time video.
-
-`scikit-learn` `Gensim` `spaCy` `OpenCV` `NLTK` `Surprise`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎭 ShakeGen — Shakespeare Text Generator
-**GRU · Character-Level RNN · TensorFlow**
-
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/Anisha-Singla-22/Shakegen)
-
-GRU-based character-level language model trained on 1.1M characters of Shakespeare. Generates fake Elizabethan prose with temperature-controlled sampling. ~55% val accuracy · 10 epochs.
-
-`TensorFlow` `Keras` `GRU` `TextVectorization` · **GBC AASD-4011**
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
+| Artificial Intelligence (AI) | `████████████████████░` 95% |
+| Product Management | `██████████████████░░░` 90% |
+| Business Analysis | `█████████████████░░░░` 88% |
+| Retrieval-Augmented Generation (RAG) | `█████████████████░░░░` 88% |
+| AI Agents | `████████████████░░░░░` 85% |
 
 </div>
 
@@ -283,32 +142,29 @@ GRU-based character-level language model trained on 1.1M characters of Shakespea
 ## 💼 Experience Timeline
 
 ```
-🟡  Founder & CEO         Teeny Tech Trek             Sep 2024 – Present    Mohali, India
-    └─ AI consultancy · LLM workflows · automation · business strategy
+🟡  Founder & AI Strategist          Teeny Tech Trek        Sep 2024 – Present    Mohali, India (Hybrid)
+    └─ RAG chatbots · AI agents · workflow automation · 10 clients · 100% on-time delivery
 
-🟢  Community Coordinator  Connect Circles: Chandigarh  Mar 2026 – Present    Mohali, India
-    └─ ConnectSphere CRM · member engagement · event coordination
+🟢  Business Dev. Manager (Intl.)    Appu International     Jun 2024 – Present    Ludhiana, India (Hybrid)
+    & Automation R&D Lead                                   (role concludes Aug 2026)
+    └─ International client management · automation R&D · n8n + AI process automation
 
-🔵  Associate Member       TiE Chandigarh               Dec 2025 – Present    Mohali, India
-    └─ TiE Startup Tracker · mentorship matching · startup ecosystem
+🔵  Support Advisor                  startGBC               Sep 2023 – Dec 2023   Toronto, Canada
+    └─ Designed Entrepreneurship Club launch package & governance framework
 
-🟣  Project Manager        Appu International           Jun 2024 – Present    Ludhiana, India
-    └─ Business development · strategic partnerships · GTM execution
+🟣  Sales Floor Team Member          Tim Hortons            Sep 2022 – Feb 2024   Toronto, Canada
+    └─ Customer engagement while completing two postgraduate programs
 
-🟠  President, AI Club     George Brown College         Oct 2023 – Apr 2024   Toronto, Canada
-    └─ Led 100+ member AI community · workshops · guest speaker series
+⚪  Entrepreneur Trainee (Co-op)     startGBC               May 2023 – Aug 2023   Toronto, Canada
+    └─ Validated a business concept via 10 customer interviews & market analysis
 
-🔴  VP, AI Club            George Brown College         Nov 2022 – Oct 2023   Toronto, Canada
-    └─ Scaled club membership · organized hackathons + AI demos
+🔴  IT Implementation Specialist     Appu International     Sep 2021 – Jul 2022   Ludhiana, India (Hybrid)
+    └─ Digitized inventory & quotation workflows · adoption up from 10% to 40%
 
-⚪  Support Advisor        startGBC                     May 2023 – Dec 2023   Toronto, Canada
-    └─ Mentored student entrepreneurs · business model validation
-
-🟡  Frontend Developer     CETPA Infotech Pvt. Ltd.     Feb 2021 – Jul 2021   Noida, India
-    └─ Built client-facing web applications · React · CSS
-
-────────────────────────────────────────────────────────────────────
-    5+ Years · 10 Roles · 3 Countries
+─────────────────────────────────────────────────────────────────────────────────
+Also: Community Coordinator, Connect Circles: Chandigarh (2026)
+      Charter Member, TiE Chandigarh (2026)
+      President & VP, AI Club @ George Brown Polytechnic
 ```
 
 ---
@@ -319,15 +175,45 @@ GRU-based character-level language model trained on 1.1M characters of Shakespea
 
 <div align="center">
 
-| Year | Degree | Field | Institution |
+| Year | Credential | Field | Institution |
 |:---:|:---|:---|:---|
-| 2023–24 | Postgraduate | Project Management | George Brown College, Toronto 🇨🇦 |
-| 2022–23 | Postgraduate | Applied AI Solutions | George Brown College, Toronto 🇨🇦 |
+| 2023–24 | PG Graduate Certificate | Project Management | George Brown Polytechnic, Toronto 🇨🇦 |
+| 2022–23 | PG Graduate Certificate | Applied AI Solutions Development | George Brown Polytechnic, Toronto 🇨🇦 |
 | 2017–21 | B.Tech | Computer Engineering | CGC Jhanjeri, Mohali 🇮🇳 |
 
 </div>
 
-> 🏆 **Dean's List** — Academic Semesters 1 & 2 · **President's List** — Semesters 1 & 2 · George Brown College
+### 🏆 Academic Honours
+
+<div align="center">
+
+![Dean's Honour List](https://img.shields.io/badge/Dean's_Honour_List-All_4_Terms-C9A84C?style=for-the-badge&logoColor=white)
+![Perfect Record](https://img.shields.io/badge/Standing-4_of_4_Terms-22C55E?style=for-the-badge)
+![Institution](https://img.shields.io/badge/George_Brown_Polytechnic-Toronto-3B82F6?style=for-the-badge)
+
+| Term | Program | Standing |
+|:---:|:---|:---:|
+| Fall 2022 | Applied AI Solutions Development | 🏅 Dean's Honour List |
+| Winter 2023 | Applied AI Solutions Development | 🏅 Dean's Honour List |
+| Fall 2023 | Project Management | 🏅 Dean's Honour List |
+| Winter 2024 | Project Management | 🏅 Dean's Honour List |
+
+</div>
+
+> Awarded across **every term of both postgraduate programs** — no gaps, no exceptions.
+
+### 📜 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Verify |
+|:---|:---|:---:|
+| **AI Fluency: Framework & Foundations** | Anthropic | [![Verify](https://img.shields.io/badge/Verify-C9A84C?style=flat-square&logo=anthropic&logoColor=white)](https://verify.skilljar.com/c/q5h47icxibjv) |
+| **Responsible AI, Safety & Governance** | Securiti AI | [![Verify](https://img.shields.io/badge/Verify-8B5CF6?style=flat-square&logo=shieldsdotio&logoColor=white)](https://education.securiti.ai/verification/1450DE4DA-1450DE349-13EDC0BE2/) |
+| **Design Thinking Practitioner** | Credly | [![Verify](https://img.shields.io/badge/Verify-F97316?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/badges/36bad26a-2dab-4185-a5a9-099c6d8ca3b2) |
+| **Python** | Coursera | [![Verify](https://img.shields.io/badge/Verify-0056D2?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/NK42FS6AWLUE) |
+
+</div>
 
 ---
 
@@ -338,10 +224,11 @@ GRU-based character-level language model trained on 1.1M characters of Shakespea
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singlaanisha)
-[![Website](https://img.shields.io/badge/Website-C9A84C?style=for-the-badge&logo=safari&logoColor=white)](https://www.teenytechtrek.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C9A84C?style=for-the-badge&logo=safari&logoColor=white)](https://www.anishasingla.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anishasingla23@gmail.com)
 
 > *"Have a project in mind? Want to explore how AI can transform your business?*
-> *I'd love to connect and discuss how we can create something impactful together."*
+> *I'd love to connect."*
 
 </div>
 
@@ -353,8 +240,8 @@ GRU-based character-level language model trained on 1.1M characters of Shakespea
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,14,21&height=120&section=footer" width="100%"/>
 
-**ANISHA.** · Founder & CEO · Mohali, Punjab
+**ANISHA.** · Founder & AI Strategist, Teeny Tech Trek · Toronto, Canada (Sep 2026)
 
-> *"Transforming businesses through the power of Artificial Intelligence — one solution at a time."*
+> *"Turning AI pilots into production systems."*
 
-</div>
+</div>**
