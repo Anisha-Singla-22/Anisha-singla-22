@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,20&height=300&section=header&text=ANISHA.&fontSize=96&fontColor=C9A84C&fontAlignY=38&desc=AI%20Business%20Analyst%20%E2%80%A2%20GenAI%20Adoption%2C%20Requirements%20%26%20Delivery&descAlignY=60&descSize=18&descColor=ffffff&animation=twinkling&stroke=C9A84C&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,20&height=300&section=header&text=ANISHA.&fontSize=96&fontColor=C9A84C&fontAlignY=38&desc=AI%20Business%20Analyst%20%E2%80%A2%20GenAI%20Adoption%20%C2%B7%20Requirements%20%C2%B7%20Delivery&descAlignY=60&descSize=18&descColor=ffffff&animation=twinkling&stroke=C9A84C&strokeWidth=1" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=C9A84C&center=true&vCenter=true&repeat=true&width=820&height=50&lines=anisha%40portfolio%3A~%24+whoami;AI+Business+Analyst+%C2%B7+AI+Strategist+%C2%B7+Toronto+%F0%9F%87%A8%F0%9F%87%A6;Founder%2C+Teeny+Tech+Trek+%E2%80%94+3+AI+products+in+production;RAG+%C2%B7+AI+Agents+%C2%B7+Responsible+AI+%C2%B7+Design+Thinking;I+build+AI+systems+that+survive+contact+with+production.)](https://git.io/typing-svg)
 
